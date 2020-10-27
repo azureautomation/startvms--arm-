@@ -1,0 +1,20 @@
+{
+    "Author": "Jay Avent",
+    "ContentSize": 4024,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/startvms-(arm)/master/Start-VMs.ps1",
+    "DownloadCount": 1782,
+    "Id": "Start-VMs-ARM-e464587f",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 326,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-4-3T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Starts all the Azure VMs in a specific Azure Resource Group. This simple runbook starts all of the virtual machines in the specified Azure Resource Group. It is particularly useful for CSP (Cloud Solution Provider) customers, or users who have multiple subscriptions/tenants.",
+    "Title": "Start-VMs (ARM)",
+    "UpdatedDate": "2016-4-28T00:00:00",
+    "Url": "https://github.com/azureautomation/startvms-(arm)",
+    "UserTags": ""
+}
